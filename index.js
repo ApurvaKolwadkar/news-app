@@ -40,3 +40,4 @@ function displayNews() {
        container.append(newsContainer)
     })
 }
+
